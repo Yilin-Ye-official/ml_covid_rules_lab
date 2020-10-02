@@ -16,3 +16,4 @@ Finally, apply the algorithm to the COVID-19 dataset to learn reliable rules whi
 
 In your report (a separate markdown cell), summarize which rules did you learn from this dataset, and whether you were surpised by any of your discoveries.
 
+Please open the final_final_covid lab
