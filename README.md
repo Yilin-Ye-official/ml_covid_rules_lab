@@ -1,4 +1,6 @@
 # Classification rules for the COVID-19 dataset
+# Please open the final_final_covid lab
+
 
 In this lab you are asked to implement the *PRISM* algorithm to extract the classification rules with the highest accuracy and coverage from the hospital patients [dataset](https://docs.google.com/spreadsheets/d/1EPewR1KdT8mszXJMuqELRTHAVIFHEJw9VwLsb9whKPI/edit?usp=sharing) described in the [class demo notebook](https://github.com/mgbarsky/ml_decision_tree_demo.git).
 
